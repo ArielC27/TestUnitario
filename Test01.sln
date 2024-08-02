@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaAriel", "LibreriaAr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaArielMSTest", "LibreriaArielMSTest\LibreriaArielMSTest.csproj", "{0DA0638A-EC72-42FA-87DD-54E42A8FC41F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaArielNUnitTest", "LibreriaArielNUnitTest\LibreriaArielNUnitTest.csproj", "{8ACC9058-D0A1-44B8-BD2A-12260F2F9E24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaArielNUnitTest", "LibreriaArielNUnitTest\LibreriaArielNUnitTest.csproj", "{8ACC9058-D0A1-44B8-BD2A-12260F2F9E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaArielXUnit", "LibreriaArielXUnit\LibreriaArielXUnit.csproj", "{C1741D0B-765C-49B9-9CF4-3E0E37186BED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8ACC9058-D0A1-44B8-BD2A-12260F2F9E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ACC9058-D0A1-44B8-BD2A-12260F2F9E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ACC9058-D0A1-44B8-BD2A-12260F2F9E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1741D0B-765C-49B9-9CF4-3E0E37186BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1741D0B-765C-49B9-9CF4-3E0E37186BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1741D0B-765C-49B9-9CF4-3E0E37186BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1741D0B-765C-49B9-9CF4-3E0E37186BED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
